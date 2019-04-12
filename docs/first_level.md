@@ -13,7 +13,7 @@ incongruent_run1.txt  incongruent_run2.txt
 ## The first level analyses are run in two steps.
 
 1. Run `make_FSL_Timings.sh` to create the onset timing files
-   (e.g., congruent_run1.txt and incongruent_run1.txt for run 1).
+   (e.g., `congruent_run1.txt` and `incongruent_run1.txt` for run 1).
 
    That will convert the BIDS format timings to FSL format.
 
